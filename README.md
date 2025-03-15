@@ -9,17 +9,17 @@
 Este módulo foi feito para o 4° checkpoint de JavaScript, focado em gerar nomes, frases e gatos aleatórios no Terminal juntamente com a estilização de cores e fontes.
 
 ## Funcionalidades Principais
-* Importação de módulos: Utilização de outros módulos como: Chalk (focado em estilização) e CatNames (focado em trazer nomes classicos de gatos)
-* Frases e gatos aleatórios: Usando lógica de programação colocamos 15 frases diferentes e 4 gatos exclusívos para você se divertir com seus comportamentos
+* Importação de módulos: Utilização de outros módulos como: Chalk (focado em estilização) e CatNames (focado em trazer nomes classicos de gatos).
+* Frases e gatos aleatórios: Usando lógica de programação colocamos 15 frases diferentes e 4 gatos exclusívos para você se divertir com seus comportamentos.
 
 ## Como instalar e usar módulo:
-* **Terminal:** Abra o seu terminal (pode ser o powershell)
+* **Terminal:** Abra o seu terminal (pode ser o powershell).
 * **Comando:** npm install @juniorlds/coolsolelog - Isso irá baixar e instalar a última versão do módulo.
 * **Importe o módulo** import gatinhos from '@juniorlds/coolsolelog' - Após instalar a última versão do módulo você deverá importar a função "gatinhos" no seu código JavaScript.
 * **Chamar a função** console.log(gatinhos()) - Depois de importar o módulo, basta chamar a função gatinhos()sempre que você quiser gerar um gatinho aleatório com uma mensagem personalizada em seu console.
   
 ## Informações Adicionais
-* **Melhorias futuras:** Aumentar a quantidade e aleatoriedade dos gatinhos, criando novas dependências
+* **Melhorias futuras:** Aumentar a quantidade e aleatoriedade dos gatinhos, criando novas dependências.
 
 ## Link do NPM: 
 * https://www.npmjs.com/package/@juniorlds/coolsolelog?activeTab=code
