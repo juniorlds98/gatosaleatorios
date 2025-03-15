@@ -4,7 +4,8 @@
   "description": "Se você gosta de gatinhos, você está no lugar certo! Participe da nossa dominação do mundo! Digo, dos gatos...",
   "main": "gatinhos.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "dev": "node teste.js"
   },
   "author": "Junior, Estefany, Wesley e Caio",
   "license": "ISC",
