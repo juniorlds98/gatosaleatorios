@@ -13,9 +13,10 @@ Este módulo foi feito para o 4° checkpoint de JavaScript, focado em gerar nome
 * Frases e gatos aleatórios: Usando lógica de programação colocamos 15 frases diferentes e 4 gatos exclusívos para você se divertir com seus comportamentos
 
 ## Como instalar e usar módulo:
-* **Comando:** npm install @juniorlds/coolsolelog - Isso irá baixar e instalar a última versão do módulo, incluindo todas as suas
-* **Importe o módulo** import gatinhos from '@juniorlds/coolsolelog' - Após instalar a última versão do módulo você deverá importar a função "gatinhos" no seu código JavaScript
-* **Chamar a função** console.log(gatinhos()) - Depois de importar o módulo, basta chamar a função gatinhos()sempre que você quiser gerar um gatinho aleatório com uma mensagem personalizada em seu console
+* **Terminal:** Abra o seu terminal (pode ser o powershell)
+* **Comando:** npm install @juniorlds/coolsolelog - Isso irá baixar e instalar a última versão do módulo.
+* **Importe o módulo** import gatinhos from '@juniorlds/coolsolelog' - Após instalar a última versão do módulo você deverá importar a função "gatinhos" no seu código JavaScript.
+* **Chamar a função** console.log(gatinhos()) - Depois de importar o módulo, basta chamar a função gatinhos()sempre que você quiser gerar um gatinho aleatório com uma mensagem personalizada em seu console.
   
 ## Informações Adicionais
 * **Melhorias futuras:** Aumentar a quantidade e aleatoriedade dos gatinhos, criando novas dependências
