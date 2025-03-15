@@ -1,0 +1,22 @@
+{
+  "name": "@juniorlds/coolsolelog",
+  "version": "1.0.1",
+  "description": "Se você gosta de gatinhos, você está no lugar certo! Participe da nossa dominação do mundo! Digo, dos gatos...",
+  "main": "gatinhos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junior, Estefany, Wesley e Caio",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@juniorlds/coolsolelog": "^1.0.1",
+    "cat-names": "^4.0.0",
+    "chalk-string": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juniorlds98/gatosaleatorios"
+  },
+  "homepage": "https://github.com/juniorlds98/gatosaleatorios#readme"
+}
